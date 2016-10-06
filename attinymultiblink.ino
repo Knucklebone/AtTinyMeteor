@@ -1,7 +1,8 @@
 /*********************************************************************************
  *                                                                               *
  * AT Tiny Meteor Light                                                          *
- *   By Big Jeff                                                                 *
+ *   By Big Jeff (Knucklebone)                                                   *
+ *   GIT URL: https://github.com/Knucklebone/AtTinyMeteor                        *
  *                                                                               *
  *********************************************************************************
  *                                                                               *
